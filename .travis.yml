@@ -1,3 +1,4 @@
 langauge: C
 compiler: gcc
-install: 
+install: build-essential rsync texinfo libncurses-dev whois unzip bc qt4-linguist-tools
+script: ./BUILDME.sh
