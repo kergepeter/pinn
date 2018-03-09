@@ -1,4 +1,3 @@
-
 # What is PINN (PINN Is Not NOOBS)?
 
 **An easy enhanced Operating System installer for the Raspberry Pi**

@@ -1,4 +1,4 @@
-langauge: C
-compiler: gcc
-install: build-essential rsync texinfo libncurses-dev whois unzip bc qt4-linguist-tools
+install: "sudo apt-get install build-essential rsync texinfo libncurses-dev whois unzip bc qt4-linguist-tools"
+language: "C"
+compiler: "gcc"
 script: ./BUILDME.sh
